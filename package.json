@@ -1,0 +1,1 @@
+{"description":"The One-Line AI Excuse for Breaking Production — a single-line excuse an AI gives its human after breaking production.","license":"MIT","main":"main.ts","name":"makefun-ai-excuse-breaking-v3","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
